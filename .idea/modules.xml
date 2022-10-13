@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/API-BookYourSeat.iml" filepath="$PROJECT_DIR$/.idea/API-BookYourSeat.iml" />
       <module fileurl="file://$PROJECT_DIR$/Core/Core.iml" filepath="$PROJECT_DIR$/Core/Core.iml" />
       <module fileurl="file://$PROJECT_DIR$/Domain/Domain.iml" filepath="$PROJECT_DIR$/Domain/Domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot/SpringBoot.iml" />
     </modules>
   </component>
 </project>
